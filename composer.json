@@ -1,0 +1,19 @@
+{
+  "name": "bbn/appui-component",
+  "description": "Loading system for Vue components",
+  "keywords": ["vue","vuejs","components","appui"],
+  "homepage": "https://github.com/nabab/appui-component",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thomas Nabet",
+      "email": "thomas.nabet@gmail.com",
+      "homepage": "https://bbn.solutions",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "bbn/bbn": "dev-master"
+  }
+}
